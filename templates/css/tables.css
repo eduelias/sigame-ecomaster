@@ -1,0 +1,23 @@
+.list{
+	background:#EEFFEE;
+
+}
+
+table { 
+	border-collapse:collapse;
+	font-size:10px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+table.formtab td, .formtab td{
+	padding:5px;
+	vertical-align:top;
+}
+
+table.formtab .td_field, .td_field{
+	text-align:left;
+}
+
+table.formtab .td_lab, .td_lab{
+	text-align:right;
+}

@@ -1,0 +1,2 @@
+<?php echo ($login->permissoes(2,'inserir'))?'<button onclick="JAVASCRIPT:divCentral.carrega(\''.encode("gera.php").'&formid=8\');" style="float:right;">INSERIR</button>':'';?>
+<?php include('modules/seguranca/list_modules.php'); ?>

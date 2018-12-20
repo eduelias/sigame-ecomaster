@@ -1,0 +1,95 @@
+form li label
+{
+	clear:both;
+	color:#444;
+	display:block;
+	font-size:9px;
+	line-height:9px;
+	margin:0;
+}
+
+form div.li{
+	border-bottom:1px solid #CCCCCC;
+	border-right:1px solid #CCCCCC;
+	text-align:right;
+	padding: 3px;
+	margin:2px;
+}
+
+form .submit{
+	width:4em;
+	height:2em;
+	float:none;
+	position:inherit;
+}
+
+form button{
+	float:right;
+	width:5em;
+	height:5em;
+}
+
+.close {
+	margin-top:3px;
+	margin-right:5px;
+}
+
+.class_login {
+	font-size: inherit;
+	border:none;
+	background-color:#FFFFFF;
+	padding:3px;
+	margin:3px;
+}
+
+form {
+
+}
+
+form legend{
+	margin-left:0em;
+}
+
+form fieldset{
+
+}
+
+form label{
+	
+}
+
+form input
+{
+	background:#fff;
+	border-bottom:1px solid #ddd;
+	border-left:1px solid #c3c3c3;
+	border-right:1px solid #c3c3c3;
+	border-top:1px solid #7c7c7c;
+	color:#333;
+	font-size:100%;
+	margin:0;
+	padding:2px 0;
+}
+
+form select {
+
+}
+
+form .submit {
+
+}
+
+legend { text-transform:uppercase; color:#FFCC66; font-weight:bolder; font-size:16px; }
+.td_lab { text-transform:uppercase; font-weight:bold; height:40px; }
+.td_field { } 
+
+.b_submit {}
+.b_reset{}
+
+.formtable{}
+
+
+form .radio{
+	margin-left:2em;
+	width:1em;
+}

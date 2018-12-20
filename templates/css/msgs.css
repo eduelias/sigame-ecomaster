@@ -1,0 +1,12 @@
+.alert{
+	background:#FFFFCC;
+	text-align:center;
+	color:#990000;
+	text-shadow:#000000;
+}
+
+.info {
+	background:#CCCCCC;
+	text-align:center;
+	color:#990000;
+}

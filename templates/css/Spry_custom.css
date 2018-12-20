@@ -1,0 +1,28 @@
+.required{
+	background-color:#FFDFDF !important;
+	border-bottom:1px solid #EACBCC;
+	border-right:1px solid #EACBCC;
+}
+
+.required .textfieldRequiredMsg, .required .passwordRequiredMsg, .required .selectRequiredMsg, .required .radioRequiredMsg{
+	display:inline;
+}
+
+.invalid{
+	background-color:#FFDFDF !important;
+	border-bottom:1px solid #EACBCC;
+	border-right:1px solid #EACBCC;
+	display:inline-block;
+}
+
+.valid{
+	background-color:#CCFFCC; !important;
+	border-bottom:1px solid #B8F5B1;
+	border-right:1px solid #B8F5B1;
+}
+
+.focus{
+	background-color:#FFFFDD !important;
+	border-bottom:1px solid  #FFFF9F;
+	border-right:1px solid #FFFF9F;
+}

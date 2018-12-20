@@ -1,0 +1,17 @@
+<?
+	include('var.php');
+	include('functions.php');
+	include(C_PATH_CLASS."debug.class.php");
+	include(C_PATH_CLASS."connection.class.php");
+	include(C_PATH_CLASS."bd.class.php");
+	include(C_PATH_CLASS."tabs.class.php");
+	include(C_PATH_CLASS."form.class.php");
+	include(C_PATH_CLASS."login.class.php");
+	include(C_PATH_CLASS."geragrid.class.php");
+	include(C_PATH_CLASS."gerajsondata.class.php");
+	include(C_PATH_CLASS."Services_JSON.class.php");
+	include(C_PATH_CLASS."pagina.class.php");
+	include(C_PATH_CLASS."joinseguranca.class.php");
+	include(C_PATH_CLASS."relacoes.class.php");
+	include(C_PATH_CLASS."empresa.class.php");
+?>

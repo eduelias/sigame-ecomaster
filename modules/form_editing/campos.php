@@ -1,0 +1,2 @@
+<?php echo ($login->permissoes(1,'inserir'))?'<button onclick="JAVASCRIPT:divCentral.carrega(\'gera.php&formid=5\');" style="float:right;">INSERIR</button>':''; ?>
+<?php include('modules/form_editing/list_field.php'); ?>

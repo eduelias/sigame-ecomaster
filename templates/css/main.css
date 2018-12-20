@@ -1,0 +1,52 @@
+div .left{
+	width:35%;
+}
+
+.tree { display: block; text-decoration:none; color:#000000; width:400px;}
+.ygtvitem td { font-size-adjust:10px;}
+.aspecto_ambiental { vertical-align:top; }
+
+.processo { text-transform:uppercase; vertical-align:middle;}
+.icon-locked { display:block; height: 18px; padding-left: 18px; background: transparent url(../../images/msg_icos.png) 0 -1px no-repeat; }
+.td_icon-locked { display:block; height: 18px; padding-left: 18px; background: transparent url(../../images/msg_icos.png) 0 3px no-repeat; }
+.icon-unlocked { display:block; height: 19px; padding-left: 18px;  text-decoration:none; background: transparent url(../../images/msg_icos.png) 0 -38px no-repeat; }
+.icon-info { display:block; height: 18px; padding-left: 18px; background: transparent url(../../images/msg_icos.png) 0 -72px no-repeat; }
+.icon-x { display:block; height: 19px; padding-left: 18px; background: transparent url(../../images/msg_icos.png) 0 -108px no-repeat; }
+.icon-boneco { display:block; height: 19px; padding-left: 18px; background: transparent url(../../images/msg_icos.png) 0 -144px no-repeat; }
+.icon-alert { display:block; height: 19px; padding-left: 18px;  background: transparent url(../../images/msg_icos.png) 0 -180px no-repeat;}
+.icon-traco { display:block; height: 18px; padding-left: 18px;  background: transparent url(../../images/msg_icos.png) 0 -216px no-repeat; }
+.htmlnodelabel { margin-left: 20px; }
+
+img.logo{
+	float:left;
+	width:200px;
+}
+
+div.topo{
+	display:inline-block;
+}
+
+.css_hidden{
+	display:none;
+}
+
+img.close{
+	position:absolute;
+	right:0;
+	top:0;
+}
+
+div .center{
+	width:50%;
+	vertical-align:middle;
+	text-align:center;
+	padding:5em;
+}
+
+.yui-dt-edito{
+	width:200px;
+}
+
+div .dual{
+	width:100%;
+}

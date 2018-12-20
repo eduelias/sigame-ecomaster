@@ -1,0 +1,119 @@
+.yui-skin-sam tr.yui-dt-selected td, .yui-skin-sam tr.yui-dt-selected td.yui-dt-asc, .yui-skin-sam tr.yui-dt-selected td.yui-dt-desc {
+color:#000000;
+background-color:#9999FF;
+}
+
+.yui-skin-sam .yui-layout .yui-layout-unit div.yui-layout-bd {
+	background-color:FFFFFF;
+}
+
+.yui-skin-sam .yui-content{
+	height:503px;
+}
+
+.yui-skin-sam .yui-navset .yui-nav, .yui-skin-sam .yui-navset .yui-navset-top .yui-nav {
+	height:10px;
+	padding:0;
+	margin:0;
+	font-size:9px;
+}
+
+.yui-skin-sam .yui-layout .yui-layout-unit div.yui-layout-bd-nohd {
+
+	background-color:#FFFFFF;
+}
+.yui-skin-sam .yui-layout {
+	background-color:#FFFFFF;
+}
+.textfieldRequiredState .textfieldRequiredMsg, .textfieldInvalidFormatState .textfieldInvalidFormatMsg, .textfieldMinValueState .textfieldMinValueMsg, .textfieldMaxValueState .textfieldMaxValueMsg, .textfieldMinCharsState .textfieldMinCharsMsg, .textfieldMaxCharsState .textfieldMaxCharsMsg { border:none; display:inline-block; }
+
+/* Remove row striping, column borders, and sort highlighting */
+.yui-skin-sam tr.yui-dt-odd,
+.yui-skin-sam tr.yui-dt-even,
+.yui-skin-sam tr.yui-dt-odd td.yui-dt-asc,
+.yui-skin-sam tr.yui-dt-odd td.yui-dt-desc,
+.yui-skin-sam tr.yui-dt-even td.yui-dt-asc,
+.yui-skin-sam tr.yui-dt-even td.yui-dt-desc {
+    background-color:FFFFFF;
+}
+.yui-skin-sam .yui-dt tbody td {
+    border-bottom: 1px solid #ddd;
+}
+.yui-skin-sam .yui-dt thead th {
+    border-bottom: 1px solid #7f7f7f;
+}
+
+.passwordRequiredState .passwordRequiredMsg, .passwordMinCharsState .passwordMinCharsMsg, .passwordMaxCharsState .passwordMaxCharsMsg, .passwordInvalidStrengthState .passwordInvalidStrengthMsg, .passwordCustomState .passwordCustomMsg { border:none; display:block; }
+
+.yui-skin-sam .yui-dt-scrollable .yui-dt-bd {
+	border:none;
+}
+
+.yui-skin-sam .yui-navset .yui-content, .yui-skin-sam .yui-navset .yui-navset-top .yui-content {
+	padding:0px;
+}
+
+.yui-skin-sam .yui-navset .yui-content {
+	background-color:#FAFBFF;
+}
+
+.CollapsiblePanelTab, .CollapsiblePanelOpen, .CollapsiblePanelFocused,.CollapsiblePanelOpen .CollapsiblePanelTab, .CollapsiblePanel{
+	background-color:#C2D7FF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	border:none;
+	padding:2px; 
+	vertical-align:middle;
+	font-weight:normal;
+}
+
+.yui-skin-sam .yui-dt-scrollable .yui-dt-hd {
+	border:none;
+}
+
+.yui-skin-sam .yuimenubar{
+
+}
+
+.yui-dt-bd, .yui-dt-hd{
+
+}
+
+.tit_pagina{
+	/*background:transparent url(../../includes/yui/2.5/build/assets/skins/sam/sprite.png) repeat-x scroll 90pt 0pt;*/
+	background: transparent url(../../images/bg2.png) repeat-x scroll 0pt -36pt;;
+	color:#FF9933;
+	text-transform:uppercase;
+	padding:0;
+	padding-left:10;
+	padding-top:10;
+	margin:0;
+	height:20px;
+}
+
+.img_pesq{
+	margin:-3px;
+	margin-right:2px;
+}
+.yui-skin-sam .yui-dt-liner {
+	padding:3px 2px;
+	margin:0px;
+}
+
+h1{
+	padding:0;
+	margin:4px;
+	}
+
+.yui-skin-sam .yui-dt caption {
+	padding-bottom:0;
+}
+.insertcap{
+	cursor:pointer;
+	margin:1px;
+}
+
+li.td{
+	padding:20px;
+}
+/* FORM */
